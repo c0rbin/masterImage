@@ -1,0 +1,27 @@
+.page {
+  padding: 50px 0px 0px 0px;
+}
+
+.product-block {
+  display: flex;
+}
+.product-block__img {
+  max-width: 450px;
+}
+.product-block__img img {
+  width: 100%;
+}
+.product-block__text {
+}
+.textProduct {
+}
+.textProduct__title {
+  font-size: 24px;
+  margin-bottom: 50px;
+}
+.textProduct__descr {
+  margin-bottom: 50px;
+}
+.textProduct__price {
+  font-size: 28px;
+}
